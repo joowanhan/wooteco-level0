@@ -1,0 +1,6 @@
+*.pdf
+.idea/
+build/
+out/
+*.class
+.DS_Store
